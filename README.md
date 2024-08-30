@@ -2,7 +2,7 @@
 
 - 👯 Bridging Web2 and Web3 to enhance collaboration and build a more secure and safer ecosystem.
 - 🔭 Working on implementing DevOps best practices for blockchain projects.
-- 🌱 Currently learning Rust and navigating Zero Knowledge Proof (ZKP) projects.
+- 🌱 Currently learning Rust and navigating Privacy-Preserving projects with Zero Knowledge Proof (ZKP) or Fully Homomorphic Encryption (FHE).
 - 💬 [Let's talk](https://t.me/oxawaz) infra, security, devops and blockchain.
 <!--
 **0xawaz/0xawaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
